@@ -8,15 +8,15 @@
 ### ⚙️ Tech I'm vibin' with
 - 💻 C++ • 🌀 TypeScript • 🐍 Python  
 - 🧱 Web dev + backend tinkering  
-- ⚡ Docusaurus & Hugo Blox for docs  
-- 🧩 Ethical hacking & server security  
+- 🅰 makin apis
 
 ---
 
 ### 💡 Projects & Shenanigans
-🚀 [Noobyetpro/Hp-Envy-13-ad1xx-hackintosh](https://github.com/Noobyetpro/Hp-Envy-13-ad1xx-hackintosh)  
-📦 Building: a p2w survival server (don’t judge 😭)  
-🎨 Designing: a GUI texture pack & ARGB PC setup  
+💻 [Noobyetpro/Hp-Envy-13-ad1xx-hackintosh](https://github.com/Noobyetpro/Hp-Envy-13-ad1xx-hackintosh)  
+🕸  [Noobyetpro/web2app](https://github.com/Noobyetpro/web2app)
+⛑  [Noobyetpro/discord-bot-template](https://github.com/Noobyetpro/Discord-Bot-Template)
+
 
 ---
 
