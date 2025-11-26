@@ -24,7 +24,7 @@
 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noobyetpro&theme=tokyonight)
+![Github Stats](https://greptile-stats.vercel.app/api/widget/noobyetpro/stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noobyetpro&theme=tokyonight)
 
 
